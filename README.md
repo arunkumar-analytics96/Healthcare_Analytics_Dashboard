@@ -4,7 +4,7 @@ An interactive Healthcare Analytics Dashboard built using Power BI, Power Query,
 
 ## 📌 Project Overview
 
-The R Healthcare Analytics Dashboard is an interactive Business Intelligence solution developed using Power BI. It helps analyze hospital data by transforming raw information into meaningful insights for decision-making. The dashboard focuses on hospital operations, patient demographics, clinical performance, financial performance, and operational efficiency.
+The Healthcare Analytics Dashboard is an interactive Business Intelligence solution developed using Power BI. It helps analyze hospital data by transforming raw information into meaningful insights for decision-making. The dashboard focuses on hospital operations, patient demographics, clinical performance, financial performance, and operational efficiency.
 
 This project demonstrates end-to-end dashboard development, including data cleaning, data transformation, DAX calculations, data modeling, and interactive report design.
 
@@ -108,3 +108,4 @@ Monitors hospital operations, patient flow, department efficiency, and operation
 *Arun Kumar*
 
 Aspiring Data Analyst | Power BI Developer
+
