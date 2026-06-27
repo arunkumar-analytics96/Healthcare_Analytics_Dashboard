@@ -74,8 +74,6 @@ Monitors hospital operations, patient flow, department efficiency, and operation
 
 ## 📷 Dashboard Screenshots
 
-## 📷 Dashboard Screenshots
-
 ### 🏥 Hospital Overview
 
 ![Hospital Overview](Screenshot%20(118).png)
